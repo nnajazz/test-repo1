@@ -3,3 +3,5 @@ ini baris kedua di buatnya di branch main
 baris ketiga di buat pada branch main
 menambahkan baris ke empat setelah pembuatan file (posisi commmit-2)
 menambahkan baris ke lima setelah pembuatan file (posisi commmit-2)
+menambahkan baris ke enam setelah pembuatan file (posisi commmit-2)
+menambahkan baris ke tujuh setelah pembuatan file (posisi commmit-2)
